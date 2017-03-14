@@ -1,0 +1,11 @@
+﻿{
+  "android": {
+    "release": {
+      "keystore": "E:\\Desenvolvimento\\tatuibus\\chave-tatuiBus.keystore",
+      "storePassword": "Leo9145@",
+      "alias": "alias_name",
+      "password": "Leo9145@",
+      "keystoreType": ""
+    }
+  }
+}
