@@ -22,4 +22,5 @@
   <plugin name="cordova-plugin-device" spec="~1.1.5" />
   <plugin name="ionic-plugin-keyboard" spec="~2.2.1" />
   <plugin name="cordova-plugin-inappbrowser" spec="~1.7.0" />
+  <plugin name="cordova-plugin-admobpro" spec="~2.28.1" />
 </widget>
